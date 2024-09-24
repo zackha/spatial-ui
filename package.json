@@ -1,8 +1,8 @@
 {
-  "name": "visionui",
+  "name": "spatial-ui",
   "version": "1.0.0",
   "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
-  "repository": "zackha/visionui",
+  "repository": "zackha/spatial-ui",
   "license": "MIT",
   "type": "module",
   "exports": {

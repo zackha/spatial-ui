@@ -5,8 +5,8 @@ export interface ModuleOptions {}
 
 export default defineNuxtModule<ModuleOptions>({
   meta: {
-    name: "visionui",
-    configKey: "visionUI",
+    name: "spatial-ui",
+    configKey: "spatialUI",
   },
   // Default configuration options of the Nuxt module
   defaults: {},

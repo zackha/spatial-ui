@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "visionui-playground",
+  "name": "spatial-ui-playground",
   "type": "module",
   "scripts": {
     "dev": "nuxi dev",
